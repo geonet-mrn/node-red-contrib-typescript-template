@@ -1,8 +1,7 @@
-# Table of Contents
-  - 1.) [The difference between this package and nodered-typescript-essentials (READ THIS!)](#1-the-difference-between-this-package-and-nodered-typescript-essentials-read-this)
+%%TOC%%
 
 
-# 1. The difference between this package and nodered-typescript-essentials (READ THIS!)
+# The difference between this package and nodered-typescript-essentials (READ THIS!)
 
 We provide another Node-RED and TypeScript-related npm package named *nodered-typescript-essentials* on our GitHub account:
 
