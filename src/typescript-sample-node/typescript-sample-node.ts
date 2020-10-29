@@ -13,7 +13,10 @@ module.exports = function (RED: any) {
             this.on('input', this.onInput);
         }
 
-        onInput(msg: any) {}
+        onInput(msg: any) {
+            msg.payload = "Hello Node!";
+            this.send(msg);
+        }
     }
 
     RED.nodes.registerType("typescript-sample-node", SampleNode);
